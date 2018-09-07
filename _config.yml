@@ -2,8 +2,9 @@
 title: Lolli.Cloud
 email: posta@danielelolli.it
 description: Diario personale di un webmaster a tempo perso.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://lolli.cloud # the base hostname & protocol for your site
+domain: https://lolli.cloud
 
 # Identity
 your-name: Daniele Lolli (UncleDan)
